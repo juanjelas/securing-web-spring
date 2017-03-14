@@ -1,0 +1,14 @@
+
+\.settings/
+
+bin/
+
+\.springBeans
+
+\.classpath
+
+\.project
+
+\.gradle/
+
+gradle/
